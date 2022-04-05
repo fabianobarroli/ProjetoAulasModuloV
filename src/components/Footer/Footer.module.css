@@ -1,0 +1,15 @@
+.footerEstilo {
+    width: 100%;
+    height: 100px;
+    background-Image:
+      linear-gradient(90deg, black, white, red, orange, yellow, green, blue, purple, pink, white, black);
+    color: black;
+    font-Size: 30px;
+    font-Weight: bold;
+    display: flex;
+    justify-Content: center;
+    align-Items: center;
+    margin-Top: 2.5em
+  }
+
+ 
